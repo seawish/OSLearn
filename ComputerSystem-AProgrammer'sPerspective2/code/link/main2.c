@@ -1,7 +1,7 @@
 /* $begin main2 */
 /* main2.c */
 #include <stdio.h>
-#include "vector.h"
+#include "vector.h"  // 也可以不引用头文件，直接在本地声明方法。
 
 int x[2] = {1, 2};
 int y[2] = {3, 4};
