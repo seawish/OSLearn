@@ -1,13 +1,12 @@
-/* $begin main */
-/* main.c */
+//
+// Created by zsb on 17/9/4.
+//
+
 void swap();
 
-int buf[2] = {1, 2};
+int buf[2] = {1,2};
 
-int main() 
-{
+int main() {
     swap();
     return 0;
 }
-/* $end main */
-
